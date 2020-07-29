@@ -1,452 +1,444 @@
 {
-  "genres": {
-    "accion": [
-      {
-        "name": "Accion",
-        "items": [
-          {
-            "background": "https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
-            "title": "The End of the F***ing World",
-            "year": 2017,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
-            "title": "The Godfather",
-            "year": 1972,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
-            "title": "Back to the Future",
-            "year": 1985,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
-            "title": "10 Cloverfield Lane",
-            "year": 2016,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
-            "title": "Joker",
-            "year": 2019,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
-            "title": "The Godfather",
-            "year": 1972,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
-            "title": "The End of the F***ing World",
-            "year": 2017,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
-            "title": "Back to the Future",
-            "year": 1985,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
-            "title": "10 Cloverfield Lane",
-            "year": 2016,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
-            "title": "Joker",
-            "year": 2019,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
-            "title": "The Godfather",
-            "year": 1972,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
-            "title": "The End of the F***ing World",
-            "year": 2017,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
-            "title": "Back to the Future",
-            "year": 1985,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
-            "title": "10 Cloverfield Lane",
-            "year": 2016,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
-            "title": "Joker",
-            "year": 2019,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
-            "title": "The Godfather",
-            "year": 1972,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
-            "title": "The End of the F***ing World",
-            "year": 2017,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
-            "title": "Back to the Future",
-            "year": 1985,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
-            "title": "10 Cloverfield Lane",
-            "year": 2016,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
-            "title": "Joker",
-            "year": 2019,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          }
-        ]
-      }
-    ],
-    "G-2": [
-      {
-        "name": "Animacion",
-        "items": [
-          {
-            "background": "https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
-            "title": "The Godfather",
-            "year": 1972,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
-            "title": "The End of the F***ing World",
-            "year": 2017,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
-            "title": "Back to the Future",
-            "year": 1985,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
-            "title": "10 Cloverfield Lane",
-            "year": 2016,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
-            "title": "Joker",
-            "year": 2019,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          }
-        ]
-      }
-    ],
-    "G-3": [
-      {
-        "name": "Drama",
-        "items": [
-          {
-            "background": "https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
-            "title": "The Godfather",
-            "year": 1972,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
-            "title": "The End of the F***ing World",
-            "year": 2017,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
-            "title": "Back to the Future",
-            "year": 1985,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
-            "title": "10 Cloverfield Lane",
-            "year": 2016,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
-            "title": "Joker",
-            "year": 2019,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          }
-        ]
-      }
-    ],
-    "G-4": [
-      {
-        "name": "Comedia",
-        "items": [
-          {
-            "background": "https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
-            "title": "The Godfather",
-            "year": 1972,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
-            "title": "The End of the F***ing World",
-            "year": 2017,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
-            "title": "Back to the Future",
-            "year": 1985,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
-            "title": "10 Cloverfield Lane",
-            "year": 2016,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          },
-          {
-            "background": "https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
-            "title": "Joker",
-            "year": 2019,
-            "plot": "Plot",
-            "duration": [
-              1,
-              36
-            ],
-            "rating": 10
-          }
-        ]
-      }
-    ]
-  }
+  "genres":[
+    {
+      "name":"Accion",
+      "items":[
+        {
+          "background":"https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
+          "title":"The End of the F***ing World",
+          "year":2017,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
+          "title":"The Godfather",
+          "year":1972,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
+          "title":"Back to the Future",
+          "year":1985,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
+          "title":"10 Cloverfield Lane",
+          "year":2016,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
+          "title":"Joker",
+          "year":2019,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
+          "title":"The Godfather",
+          "year":1972,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
+          "title":"The End of the F***ing World",
+          "year":2017,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
+          "title":"Back to the Future",
+          "year":1985,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
+          "title":"10 Cloverfield Lane",
+          "year":2016,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
+          "title":"Joker",
+          "year":2019,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
+          "title":"The Godfather",
+          "year":1972,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
+          "title":"The End of the F***ing World",
+          "year":2017,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
+          "title":"Back to the Future",
+          "year":1985,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
+          "title":"10 Cloverfield Lane",
+          "year":2016,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
+          "title":"Joker",
+          "year":2019,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
+          "title":"The Godfather",
+          "year":1972,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
+          "title":"The End of the F***ing World",
+          "year":2017,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
+          "title":"Back to the Future",
+          "year":1985,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
+          "title":"10 Cloverfield Lane",
+          "year":2016,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
+          "title":"Joker",
+          "year":2019,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        }
+      ]
+    },
+    {
+      "name":"Animacion",
+      "items":[
+        {
+          "background":"https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
+          "title":"The Godfather",
+          "year":1972,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
+          "title":"The End of the F***ing World",
+          "year":2017,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
+          "title":"Back to the Future",
+          "year":1985,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
+          "title":"10 Cloverfield Lane",
+          "year":2016,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
+          "title":"Joker",
+          "year":2019,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        }
+      ]
+    },
+    {
+      "name":"Drama",
+      "items":[
+        {
+          "background":"https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
+          "title":"The Godfather",
+          "year":1972,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
+          "title":"The End of the F***ing World",
+          "year":2017,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
+          "title":"Back to the Future",
+          "year":1985,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
+          "title":"10 Cloverfield Lane",
+          "year":2016,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
+          "title":"Joker",
+          "year":2019,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        }
+      ]
+    },
+    {
+      "name":"Comedia",
+      "items":[
+        {
+          "background":"https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
+          "title":"The Godfather",
+          "year":1972,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
+          "title":"The End of the F***ing World",
+          "year":2017,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
+          "title":"Back to the Future",
+          "year":1985,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/xVp3OKG2YC2cNabmDFxitLHFMQz.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/kFr0fYdAxl0kJvGT2wzhhb9it4K.jpg",
+          "title":"10 Cloverfield Lane",
+          "year":2016,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        },
+        {
+          "background":"https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+          "poster":"https://image.tmdb.org/t/p/original/2nbKZ5RWFSvjq5IGVRcz8kAolmw.jpg",
+          "title":"Joker",
+          "year":2019,
+          "plot":"Plot",
+          "duration":[
+            1,
+            36
+          ],
+          "rating":10
+        }
+      ]
+    }
+  ]
 }
