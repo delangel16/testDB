@@ -5,10 +5,10 @@
         "name": "Accion",
         "items": [
           {
-            "background": "https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
-            "title": "The Godfather",
-            "year": 1972,
+            "background": "https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
+            "poster": "https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
+            "title": "The End of the F***ing World",
+            "year": 2017,
             "plot": "Plot",
             "duration": [
               1,
@@ -17,10 +17,10 @@
             "rating": 10
           },
           {
-            "background": "https://image.tmdb.org/t/p/original/p0RTKsgiXDYPd7RIOpuAiXh4qNl.jpg",
-            "poster": "https://image.tmdb.org/t/p/original/AntSvkmFQRM9PT9F99FmxkU5Jtr.jpg",
-            "title": "The End of the F***ing World",
-            "year": 2017,
+            "background": "https://image.tmdb.org/t/p/original/rHswhO92VRac4zpftB2zpraGC5X.jpg",
+            "poster": "https://image.tmdb.org/t/p/original/AbgEQO2mneCSOc8CSnOMa8pBS8I.jpg",
+            "title": "The Godfather",
+            "year": 1972,
             "plot": "Plot",
             "duration": [
               1,
